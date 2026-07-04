@@ -21,11 +21,11 @@ My full CV is available [here](../ManhCuong_CV.pdf).
 
 ## News
 
-- **June 2026:** Successfully demonstrated our humanoid robot's locomotion and manipulation capabilities at ICRA 2026 in Austria.
-- **June 2026:** Our humanoid robot made its official public debut at Computex 2026 in Taiwan.
-- **January 2026:** Expanded my concurrent academic and industry roles by joining Vietnam National University, Hanoi as a Visiting Lecturer.
-- **September 2025:** Promoted to Head of Motion Control Department at VinRobotics, leading a team of robotics engineers while continuing my research work at VinUniversity.
-- **June 2025:** Joined VinUniversity as a Senior Research Scientist, focusing on industrial applications and technology transfer in robotics.
+- **June 2026:** Successfully demonstrated our humanoid robot's locomotion and manipulation capabilities at **ICRA 2026** in Austria.
+- **June 2026:** Our humanoid robot made its official public debut at **Computex 2026** in Taiwan.
+- **January 2026:** Expanded my concurrent academic and industry roles by joining **Vietnam National University, Hanoi** as a **Visiting Lecturer**.
+- **September 2025:** Promoted to **Head of Motion Control Department** at **VinRobotics**, leading a team of robotics engineers while continuing my research work at **VinUniversity**.
+- **June 2025:** Joined **VinUniversity** as a **Senior Research Scientist**, focusing on industrial applications and technology transfer in robotics.
 
 <!-- ## Research Vision
 
