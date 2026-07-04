@@ -9,25 +9,27 @@ redirect_from:
 
 
 
-I am a Senior Robotics Engineer at [Goldbell](https://www.goldbell.com.sg/), Singapore, and a Researcher at [Vietnam Academy of Science and Technology](https://vast.gov.vn/web/vietnam-academy-of-science-and-technology/home).
+I am the **Head of Motion Control Department** at [VinRobotics](https://vinrobotics.net/), where I lead the development of full-stack control systems for humanoid robots — spanning locomotion, manipulation, and dexterous hands. I also hold positions as a **Senior Research Scientist** at [VinUniversity](https://vinuni.edu.vn/) and a **Visiting Lecturer** at [Vietnam National University, Hanoi](https://en.vnu.edu.vn/).
 
-I obtained my M.S. degree in Control Engineering and Automation from [Hanoi University of Science and Technology (HUST)](https://hust.edu.vn/en/), Top 1 technical university in Vietnam. During my studies, I was awarded scholarships from both the university and [VinIF](https://vinif.org/en/), a highly regarded scholarship program funded by [VinGroup](https://vingroup.net/en), the largest conglomerate in Vietnam.
+Previously, I was a Senior Robotics Engineer at [Goldbell Group](https://www.goldbell.com.sg/) in Singapore, developing autonomous industrial forklifts, and a Robotics Engineer at [VinAI Research](https://www.vinai.io/) working on autonomous driving.
 
-Prior to that, I earned my B.S. in Control Engineering and Automation from HUST with Best Graduation Thesis award and published a total of 13 research papers.
-My full CV is available [here](../files/marcus_cv_full.pdf).
+I obtained my M.S. degree in Control Engineering and Automation from [Hanoi University of Science and Technology (HUST)](https://hust.edu.vn/en/), the top technical university in Vietnam. During my studies, I was awarded scholarships from both the university and [VinIF](https://vinif.org/en/), a highly regarded scholarship program funded by [VinGroup](https://vingroup.net/en), the largest conglomerate in Vietnam.
+
+Prior to that, I earned my B.S. in Control Engineering and Automation from HUST with the Best Graduation Thesis award.
+My full CV is available [here](../ManhCuong_CV.pdf).
 
 
-<!-- ## News -->
+## News
 
-<!-- - **February 7, 2025:** I was admitted to Northeastern University Khoury College of Computer Science as a PhD student.
-- **August 10, 2024:** I have extended my research internship in The Helping Hands Lab at Northeastern University until August 31, 2025.
-- **June 30, 2024:** Our paper, "Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance," has been accepted for an **Oral Presentation** at IEEE/RSJ IROS 2024.
-- **May 1, 2024:** This summer, I will join The Helping Hands Lab at Northeastern University as a research intern to work on cutting-edge robotic projects focusing on manipulations and 3D vision. Our projects will collaborate closely with Boston Dynamic AI to tackle critical challenges in robotics.
-- **January 31, 2024:** Our paper, "Vision-based FDM Printing for Fabricating Airtight Soft Actuators," has been accepted for an **Oral Presentation** at IEEE RoboSoft 2024. -->
+- **June 2026:** Successfully demonstrated our humanoid robot's locomotion and manipulation capabilities at ICRA 2026 in Austria.
+- **June 2026:** Our humanoid robot made its official public debut at Computex 2026 in Taiwan.
+- **January 2026:** Expanded my concurrent academic and industry roles by joining Vietnam National University, Hanoi as a Visiting Lecturer.
+- **September 2025:** Promoted to Head of Motion Control Department at VinRobotics, leading a team of robotics engineers while continuing my research work at VinUniversity.
+- **June 2025:** Joined VinUniversity as a Senior Research Scientist, focusing on industrial applications and technology transfer in robotics.
 
-## Research Vision
+<!-- ## Research Vision
 
-My long-term research focuses on the development of intelligent robots and advanced control systems. I am dedicated to exploring the applications of robotics across various domains, including industrial, domestic, and social sectors. By leveraging the power of robotics, my goal is to significantly enhance human quality of life, making technology more accessible, efficient, and supportive in everyday activities and societal functions.
+My long-term research focuses on building **intelligent humanoid robots** that can operate reliably in the real world. I work at the intersection of model-based control (MPC, Whole-Body Control) and learning-based methods (Reinforcement Learning) to achieve robust, dynamic locomotion and dexterous manipulation. I am dedicated to pushing the boundaries of what humanoid robots can do — from high-speed running and extreme motions to precision industrial tasks — and deploying these capabilities on real hardware across diverse platforms. -->
 
 ## Selected Publications
 
@@ -63,42 +65,79 @@ My long-term research focuses on the development of intelligent robots and advan
   </div>
 </div>
 
-## Services
-Mentor of graduate students at VAST (2 students received VinIF scholarships and graduated with M.S. degree).
+<!-- ## Services
+
+Mentor of graduate students at VinUniversity and VAST (2 students received VinIF scholarships and graduated with M.S. degree).
+
+Visiting Lecturer at Vietnam National University, Hanoi — teaching and advising on AI and Robotics.
 
 Reviewer of Transactions of the Institute of Measurement and Control.
-Reviewer of ISA Transactions
+Reviewer of ISA Transactions. -->
 
-## Selected Projects
+## Highlights
+
 <div class="research-container">
   <div class="research-item">
-    <p><strong>Vietnam's National project - Research and develop an intelligent mobile robot using
-      different types of sensing technology and IoT platform, AI, and implemented in radioactive
-      environment monitoring application</strong></p>
-    <p class="research-meta">Vietnam Academy of Science and Technology | Oct 2023 - Present</p>
+    <p><strong>Humanoid Locomotion — VinRobotics</strong></p>
+    <p class="research-meta">Sep 2025 - Present</p>
+    <ul>
+      <li>Achieved stable and dynamic walking at human-like speeds up to <strong>1.6 m/s</strong></li>
+      <li>High-speed running up to <strong>6 m/s</strong> and dynamic performing capabilities (dancing)</li>
+      <li>Centimeter-level goal-reaching precision for automated workflows</li>
+      <li>Extreme motions (bending, squatting, waist rotation) enabling <strong>15 kg payload lifting</strong> from ground</li>
+      <li>Successfully transferred generalized RL policies across diverse humanoid platforms</li>
+      <li>Global demos at <strong>ICRA 2026</strong> (Austria) and <strong>Computex 2026</strong> (Taiwan)</li>
+    </ul>
   </div>
 
   <div class="research-item">
-    <p><strong>Master Project - Design adaptive controllers and a state observer for the parallel robot</strong></p>
-    <p class="research-meta">Hanoi University of Science and Technology | Oct 2020 - May 2022</p>
+    <p><strong>Humanoid Manipulation & Dexterous Hands — VinRobotics</strong></p>
+    <p class="research-meta">Sep 2025 - Present</p>
+    <ul>
+      <li>Verified <strong>1-mm repeatability</strong> in industrial manipulation tasks</li>
+      <li>Real-time, obstacle-aware trajectory planning for collision-free operations</li>
+      <li>Variable impedance control for adaptive and versatile object handling</li>
+    </ul>
   </div>
 
   <div class="research-item">
-    <p><strong>Research, design, and manufacture an intelligent humanoid robot IVASTBot implemented
-      in communication and serving people</strong></p>
+    <p><strong>Autonomous Industrial Forklifts — Goldbell Group, Singapore</strong></p>
+    <p class="research-meta">Oct 2022 - Jul 2025</p>
+    <ul>
+      <li>Led Pallet Docking and Multiple Pallet Detection modules end-to-end</li>
+      <li>Achieved <strong>millimeter-level accuracy</strong> for automated pallet docking</li>
+      <li>Deployed autonomous forklifts to multiple customer sites across Singapore</li>
+    </ul>
+  </div>
+
+  <div class="research-item">
+    <p><strong>Autonomous Driving — VinAI Research</strong></p>
+    <p class="research-meta">Dec 2020 - Oct 2022</p>
+    <ul>
+      <li>Motion planning and control for autonomous parking and highway driving</li>
+      <li>Vehicle state estimation, localization pipelines, and smart mirror adjustment</li>
+    </ul>
+  </div>
+</div>
+
+## Selected Projects
+
+<div class="research-container">
+  <div class="research-item">
+    <p><strong>National Project — Intelligent Mobile Robot for Radioactive Monitoring</strong></p>
+    <p class="research-meta">Vietnam Academy of Science and Technology | Oct 2023 - 2025</p>
+    <ul>
+      <li>Autonomous navigation in unknown radioactive environments</li>
+      <li>Autonomous radioactive map building</li>
+    </ul>
+  </div>
+
+  <div class="research-item">
+    <p><strong>IVASTBot Humanoid Robot</strong></p>
     <p class="research-meta">Vietnam Academy of Science and Technology | Oct 2020 - Sep 2023</p>
-  </div>
-
-  <div class="research-item">
-    <p><strong>Graduation Project - Design an intelligent navigation system for the Omni mobile robot
-      in uncertain environments</strong></p>
-    <p class="research-meta">Hanoi University of Science and Technology | Jan 2019 - Oct 2020</p>
-  </div>
-
-  <div class="research-item">
-    <p><strong>Research and design nonlinear adaptive controllers for robot systems based on Radial
-      Basis Function neural network (RBFNN) and Fuzzy logic</strong></p>
-    <p class="research-meta">Hanoi University of Science and Technology | Jan 2019 - Oct 2020</p>
+    <ul>
+      <li>MPC for mobile robots using ROS, integrated into the navigation system</li>
+    </ul>
   </div>
 </div>
 

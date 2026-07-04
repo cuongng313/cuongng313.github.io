@@ -1,21 +1,33 @@
 experiences:
   - category: work
-    place: "Goldbell Group"
-    time: "Oct 2022 - Present"
-    title: "Senior Robotics Engineer"
-    subtitle: "Singapore"
+    place: "VinRobotics"
+    time: "Sep 2025 - Present"
+    title: "Head of Motion Control Department"
+    subtitle: "Humanoid Robots — Locomotion, Manipulation, Hands"
 
   - category: work
-    place: "VAST"
-    time: "Oct 2020 - Present"
-    title: "Researcher"
-    # subtitle: "Vietnam"
+    place: "VinUniversity"
+    time: "Jun 2025 - Present"
+    title: "Senior Research Scientist"
+    subtitle: "Intelligent Robotics Systems"
 
-  - category: education
-    place: "HUST"
-    time: "Oct 2020 - May 2022"
-    title: "M.S. in Control Engineering and Automation"
-    subtitle: "Awarded merit-based and VinIF scholarships"
+  - category: work
+    place: "VNU Hanoi"
+    time: "Jan 2026 - Present"
+    title: "Visiting Lecturer"
+    subtitle: "AI and Robotics"
+
+  - category: work
+    place: "Goldbell Group"
+    time: "Oct 2024 - Jul 2025"
+    title: "Senior Robotics Engineer"
+    subtitle: "Autonomous Industrial Forklifts, Singapore"
+
+  - category: work
+    place: "Goldbell Group"
+    time: "Oct 2022 - Oct 2024"
+    title: "Robotics Engineer"
+    subtitle: "Autonomous Industrial Forklifts, Singapore"
 
   - category: work
     place: "VinAI Research"
@@ -23,45 +35,14 @@ experiences:
     title: "Robotics Engineer"
     subtitle: "Auto Pilot (Autonomous Driving Vehicle)"
 
-  - category: work
-    place: "VAST"
-    time: "Jan 2019 - Oct 2020"
-    title: "Research Intern"
-    subtitle: "Autonomous Mobile Robots and Intelligent Control Systems"
+  - category: education
+    place: "HUST"
+    time: "Oct 2020 - May 2022"
+    title: "M.S. in Control Engineering and Automation"
+    subtitle: "Awarded merit-based and VinIF scholarships"
 
   - category: education
     place: "HUST"
     time: "Aug 2015 - Aug 2020"
     title: "B.S. in Control Engineering and Automation"
     subtitle: "Best Graduation Thesis Award"
-
-# experiences:
-#   - category: research
-#     place: "Vietnam Academy of Science and Technology"
-#     time: "Oct 2023 - Present"
-#     title: "National Project - Intelligent Mobile Robot Research"
-#     subtitle: "Lead Researcher under Dr. Ngo Manh Tien<br>• Developing intelligent controllers for radioactive environment monitoring robots<br>• Mentoring graduate students<br>• Leading planning and control module design"
-
-#   - category: research
-#     place: "Hanoi University of Science and Technology"
-#     time: "Oct 2020 - May 2022"
-#     title: "Master's Project - Parallel Robot Control"
-#     subtitle: "Research Assistant under Assoc. Prof. Nguyen Tung Lam<br>• Designed novel Adaptive Neural Network Control with high-gain observer<br>• Implemented Lyapunov-based Model Predictive Controller<br>• Mentored students who received Vingroup Innovation Foundation scholarships"
-
-#   - category: research
-#     place: "Vietnam Academy of Science and Technology"
-#     time: "Oct 2020 - Sep 2023"
-#     title: "IVASTBot Humanoid Robot Project"
-#     subtitle: "Research Engineer under Dr. Ngo Manh Tien<br>• Implemented Model Predictive Control for mobile robots using ROS<br>• Designed and deployed navigation systems<br>• Led graduate student mentorship program"
-
-#   - category: research
-#     place: "Hanoi University of Science and Technology"
-#     time: "Jan 2019 - Oct 2020"
-#     title: "Graduation Project - Omni Mobile Robot Navigation"
-#     subtitle: "Under Assoc. Prof. Nguyen Tung Lam & Dr. Ngo Manh Tien<br>• Designed intelligent navigation systems for uncertain environments<br>• Implemented planning and control modules"
-
-#   - category: research
-#     place: "Hanoi University of Science and Technology"
-#     time: "Jan 2019 - Oct 2020"
-#     title: "Nonlinear Adaptive Control Research"
-#     subtitle: "Research Assistant under Assoc. Prof. Nguyen Tung Lam<br>• Developed controllers using RBFNN and Fuzzy Logic<br>• Implemented Backstepping, Sliding Mode Control, and Dynamic Surface Control"
